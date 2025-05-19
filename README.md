@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @HunDreath <br>
 
+I just training rust for fun
+
 
 <!---
 HunDreath/HunDreath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
